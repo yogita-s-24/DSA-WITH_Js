@@ -1,11 +1,12 @@
-import Array from './Array/index.jsx'
+import Array from "./Array/index.jsx";
+import For_Loop from "./For_Loop/index.jsx";
 function App() {
-
   return (
     <>
-    <Array/>
+      <Array />
+      <For_Loop />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
