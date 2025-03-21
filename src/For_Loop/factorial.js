@@ -19,5 +19,9 @@ else {
       }
       console.log(`Factorial of ${pr} is ${fact}`);
     }
+    else{
+        console.log("Should be number is +ve or more than 0");
+        
+    }
   }
 }
